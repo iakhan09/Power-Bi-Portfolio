@@ -1,7 +1,7 @@
 # Power-Bi-Portfolio
 My Power BI projects and dashboards.
 # 💫 About Me:
- I'm building dashboards to analyze data using power bi Power BI, DAX, Data Modeling , Sql & Excel
+ I'm building dashboards to analyze data using Power BI, DAX, Data Modeling , Sql & Excel
 
 
 ## 🌐 Socials:
